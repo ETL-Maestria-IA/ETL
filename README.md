@@ -1,5 +1,3 @@
-# ETL documentos
-
 # Repositorio ETL para Procesamiento de Datos del Suelo
 
 Este repositorio contiene proyectos de Extracción, Transformación y Carga (ETL) para el procesamiento y análisis de datos relacionados con el suelo. Incluye dos notebooks de Colab: uno para procesar la fuente de datos "Gravena" y otro para un proyecto ETL centrado en el análisis de las propiedades del suelo.
